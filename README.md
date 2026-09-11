@@ -5,8 +5,7 @@
 🔐 Spring Security 
 🗄️ PostgreSQL
 💻 Backend Developer 
-☁️ AWS 
-🐳 Docker  
+☁️ AWS  & 🐳 Docker  
 🔧 Microservices
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
