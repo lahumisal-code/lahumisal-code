@@ -8,16 +8,11 @@
 
 🧠 About Me
 
-• 👨‍💻 Software Developer working on FinTech backend applications.
-
-• ☕ Building backend applications using Java and Spring Boot.
-
-• 🔐 Experienced with Spring Security, JWT authentication.
-
-• 🗄️ Working with PostgreSQL, Oracle SQL, JPA and Hibernate.
-
-• 🐳 Exploring Docker, Kafka, Jenkins and microservices.
-
+• 👨‍💻 Software Developer working on FinTech backend applications. 
+• ☕ Building backend applications using Java and Spring Boot. 
+• 🔐 Experienced with Spring Security, JWT authentication. 
+• 🗄️ Working with PostgreSQL, Oracle SQL, JPA and Hibernate. 
+• 🐳 Exploring Docker, Kafka, Jenkins and microservices. 
 • 🚀 Currently building my University, Collage & School Management/Operating System (usos).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
