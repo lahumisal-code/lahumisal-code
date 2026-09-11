@@ -8,7 +8,6 @@
 🧠 About Me
 
 • 👨‍💻 Software Developer working on FinTech backend applications.
-
 • ☕ Building backend applications using Java and Spring Boot.
 • 🔐 Experienced with Spring Security, JWT authentication.
 • 🗄️ Working with PostgreSQL, Oracle SQL, JPA and Hibernate.
