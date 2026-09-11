@@ -1,18 +1,28 @@
 👋 Hey, I'm Lahu Misal
 
-☕ Java Developer | 🚀 Spring Boot | 🔐 Spring Security | 🗄️ PostgreSQL
-💻 Backend Developer | ☁️ AWS | 🐳 Docker | 
+☕ Java Developer 
+🚀 Spring Boot 
+🔐 Spring Security 
+🗄️ PostgreSQL
+💻 Backend Developer 
+☁️ AWS 
+🐳 Docker  
 🔧 Microservices
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧠 About Me
 
-• 👨‍💻 Software Developer working on FinTech backend applications. 
+• 👨‍💻 Software Developer working on FinTech backend applications.
+
 • ☕ Building backend applications using Java and Spring Boot. 
+
 • 🔐 Experienced with Spring Security, JWT authentication. 
+
 • 🗄️ Working with PostgreSQL, Oracle SQL, JPA and Hibernate. 
+
 • 🐳 Exploring Docker, Kafka, Jenkins and microservices. 
+
 • 🚀 Currently building my University, Collage & School Management/Operating System (usos).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -27,10 +37,10 @@ React
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 Featured Projects
+🚀 Current working personal project
 
 🎓 universitySchoolOS
-University, Collage & School Management/Operating System (usos)
+--> University, Collage & School Management/Operating System (usos)
 
 • Java + Spring Boot 4.x + Rest api's
 • PostgreSQL
@@ -50,14 +60,7 @@ University, Collage & School Management/Operating System (usos)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📊 GitHub Stats
-
-🔥 Always learning
-🚀 Always building
-☕ Powered by Java
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 📫 Connect With Me
 
-LinkedIn | GitHub | Portfolio
+LinkedIn:- https://www.linkedin.com/in/lahu-misal-1a426726b/
+Portfolio:- https://react-portfolio-ebon-eta.vercel.app/
