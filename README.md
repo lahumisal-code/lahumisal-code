@@ -39,27 +39,38 @@ React
 🚀 Current working personal project
 
 🎓 universitySchoolOS
---> University, Collage & School Management/Operating System (usos)
+University, Collage & School Management/Operating System (usos)
 
 • Java + Spring Boot 4.x + Rest api's
+
 • PostgreSQL
+
 • Spring Security
+
 • Role & Permission Management
+
 • Docker
+
 • Kafka
+
 • React
 
 💼 FinTech Backend Applications
 
 • Spring Boot Microservices
+
 • Oracle SQL
+
 • REST APIs
+
 • Security / VAPT fixes
+
 • SCA remediation
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📫 Connect With Me
 
-LinkedIn:- https://www.linkedin.com/in/lahu-misal-1a426726b/
-Portfolio:- https://react-portfolio-ebon-eta.vercel.app/
+• LinkedIn:- https://www.linkedin.com/in/lahu-misal-1a426726b/
+
+• Portfolio:- https://react-portfolio-ebon-eta.vercel.app/
