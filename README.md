@@ -56,6 +56,7 @@ University, Collage & School Management/Operating System (usos)
 • Kafka
 
 • React
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💼 FinTech Backend Applications
