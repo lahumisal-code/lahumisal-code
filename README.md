@@ -1,16 +1,62 @@
-## Hi there 👋
+👋 Hey, I'm Lahu Misal
 
-<!--
-**lahumisal-code/lahumisal-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Java Developer | 🚀 Spring Boot | 🔐 Spring Security | 🗄️ PostgreSQL
+💻 Backend Developer | ☁️ AWS | 🐳 Docker | 🔧 Microservices
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me
+
+• 👨‍💻 Software Developer working on FinTech backend applications.
+• ☕ Building backend applications using Java and Spring Boot.
+• 🔐 Experienced with Spring Security, JWT authentication.
+• 🗄️ Working with PostgreSQL, Oracle SQL, JPA and Hibernate.
+• 🐳 Exploring Docker, Kafka, Jenkins and microservices.
+• 🚀 Currently building my University, Collage & School Management/Operating System (usos).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Java                      Spring Boot       Spring Security
+Hibernate                 Spring Data JPA   PostgreSQL
+Oracle SQL                Docker            Kafka
+Jenkins/GitHub Actions    AWS S3            Git & GitHub
+React
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🎓 universitySchoolOS
+University, Collage & School Management/Operating System (usos)
+
+• Java + Spring Boot 4.x + Rest api's
+• PostgreSQL
+• Spring Security
+• Role & Permission Management
+• Docker
+• Kafka
+• React
+
+💼 FinTech Backend Applications
+
+• Spring Boot Microservices
+• Oracle SQL
+• REST APIs
+• Security / VAPT fixes
+• SCA remediation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+🔥 Always learning
+🚀 Always building
+☕ Powered by Java
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect With Me
+
+LinkedIn | GitHub | Portfolio
