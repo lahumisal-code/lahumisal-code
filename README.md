@@ -8,7 +8,7 @@
 ☁️ AWS  & 🐳 Docker  
 🔧 Microservices
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧠 About Me
 
@@ -24,17 +24,19 @@
 
 • 🚀 Currently building my University, Collage & School Management/Operating System (usos).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠️ Tech Stack
 
-Java                      Spring Boot       Spring Security
-Hibernate                 Spring Data JPA   PostgreSQL
-Oracle SQL                Docker            Kafka
-Jenkins/GitHub Actions    AWS S3            Git & GitHub
-React
+| **Java**                     | **Spring Boot**     | **Spring Security** |
+| ---------------------------- | ------------------- | ------------------- |
+| **Hibernate**                | **Spring Data JPA** | **PostgreSQL**      |
+| **Oracle SQL**               | **Docker**          | **Kafka**           |
+| **Jenkins / GitHub Actions** | **AWS S3**          | **Git & GitHub**    |
+| **React**                    |                     |                     |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🚀 Current working personal project
 
@@ -54,6 +56,7 @@ University, Collage & School Management/Operating System (usos)
 • Kafka
 
 • React
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💼 FinTech Backend Applications
 
@@ -67,7 +70,7 @@ University, Collage & School Management/Operating System (usos)
 
 • SCA remediation
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📫 Connect With Me
 
